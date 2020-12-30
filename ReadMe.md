@@ -40,15 +40,13 @@ Cette Application intégre désormais une fonction de login et registration qui 
 ![Capture3](https://user-images.githubusercontent.com/65347801/103380003-d5cfd380-4ae7-11eb-9d6c-e7d9fd889347.PNG)
 
 
+### Parti non-abouti  
 
-### Parti non-abouti et futur de l'application
-
-  *Erreur rencontré qui fut bloquante
+  *Erreur rencontré qui fut bloquante (build fonctionnelle) mais échec de l'ouverture de l'utilisation
   
 ![Capture4](https://user-images.githubusercontent.com/65347801/103380009-d7999700-4ae7-11eb-9a18-44055ecf7718.PNG)
-![Capture6](https://user-images.githubusercontent.com/65347801/82599758-1f009200-9bad-11ea-849b-87832342b78c.PNG)
-### Ecran Abilité
+
+### Futur de l'application
    * Visuelle de se que aurait été l'application
    
-![Capture4](https://user-images.githubusercontent.com/65347801/82599867-48b9b900-9bad-11ea-8423-afaf49cb1940.PNG)
-![Capture5](https://user-images.githubusercontent.com/65347801/82599873-4a837c80-9bad-11ea-8d20-9487e10e6938.PNG)
+
