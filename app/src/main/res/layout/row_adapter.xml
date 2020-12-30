@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:id="@+id/mainLayout"
+    android:padding="6dip" >
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="58dp"
+        android:layout_height="58dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="6dp"
+        android:layout_marginBottom="0dp"
+        app:srcCompat="@drawable/pokemon" />
+
+
+    <TextView
+        android:id="@+id/firstLine"
+        android:layout_width="342dp"
+        android:layout_height="53dp"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="-1dp"
+        android:layout_toRightOf="@id/icon"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:text="Example application"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/secondLine"
+        android:layout_width="342dp"
+        android:layout_height="53dp"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="-1dp"
+        android:layout_toRightOf="@id/icon"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:text="Example application"
+        android:textSize="20sp" />
+
+</RelativeLayout>
