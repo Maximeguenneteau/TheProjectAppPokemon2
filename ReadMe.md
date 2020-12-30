@@ -48,5 +48,6 @@ Cette Application intégre désormais une fonction de login et registration qui 
 
 ### Futur de l'application
    * Visuelle de se que aurait été l'application
-   
+
+![Capture2](https://user-images.githubusercontent.com/65347801/82599538-ccbf7100-9bac-11ea-8711-f604374c8cd7.PNG) ![Capture3](https://user-images.githubusercontent.com/65347801/82599666-fc6e7900-9bac-11ea-9e97-c60a1146c03c.PNG)
 
