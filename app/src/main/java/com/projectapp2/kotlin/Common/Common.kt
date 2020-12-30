@@ -2,7 +2,6 @@ package com.projectapp2.kotlin.Common
 
 import com.projectapp2.kotlin.Interface.RetrofitService
 import com.projectapp2.kotlin.Retrofit.RetrofitClient
-import
 
 object Common {
     private val BASE_URL = "https://raw.githubusercontent.com/Maximeguenneteau/MyProject/master/"
